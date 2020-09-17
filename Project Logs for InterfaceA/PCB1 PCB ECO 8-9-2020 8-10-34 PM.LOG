@@ -1,0 +1,15 @@
+Change Component Comment : Designator=J1 Old Comment=D09S33E4GV00LF New Comment=RS232
+Change Component Comment : Designator=J2 Old Comment=D09S33E4GV00LF New Comment=RS422
+Change Component Comment : Designator=J9 Old Comment=Header 5X2 New Comment=JTAG
+Change Component Comment : Designator=J7 Old Comment=HEADER_4 New Comment=I2C
+Change Component Comment : Designator=J15 Old Comment=HEADER_4 New Comment=PWR-5V
+Change Component Comment : Designator=J13 Old Comment=HEADER_4 New Comment=PWR-12V
+Change Component Comment : Designator=J6 Old Comment=HEADER_4 New Comment=UART_3V3
+Change Component Comment : Designator=J5 Old Comment=HEADER_6 New Comment=GPIO_3V3
+Change Component Comment : Designator=J8 Old Comment=HEADER_6 New Comment=GPIO_3V3
+Change Component Comment : Designator=J4 Old Comment=HEADER_6 New Comment=GPIO_5V
+Change Component Comment : Designator=J3 Old Comment=HEADER_6 New Comment=SPI
+Change Component Comment : Designator=J17 Old Comment=JUMPER 2 PIN New Comment=XBEE_PWR
+Change Component Comment : Designator=J14 Old Comment=JUMPER 3 PIN New Comment=5V-SELECTOR
+Change Component Comment : Designator=J12 Old Comment=UX60-MB-5S8 New Comment=FTDI-A
+Change Component Comment : Designator=J16 Old Comment=UX60-MB-5S8 New Comment=FTDI-B
